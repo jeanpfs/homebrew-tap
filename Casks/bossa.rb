@@ -1,8 +1,8 @@
 cask "bossa" do
   arch arm: "arm64"
 
-  version "0.1.1"
-  sha256 "b4ed5a2913ebd610f16f572a251b51c616bf5a0a0dbe79d2200e9d42c8576277"
+  version "0.1.2"
+  sha256 "e3a861cbf76386971dda4266ddf7f8b12c3da1dde9f8cc618fff5e746e8efc8b"
 
   url "https://github.com/jeanpfs/bossa/releases/download/v#{version}/Bossa-#{version}-macos-#{arch}.zip"
   name "Bossa"
